@@ -25,7 +25,7 @@ class MyApp extends StatelessWidget {
       ),
       debugShowCheckedModeBanner: false,
       defaultTransition: Transition.fadeIn,
-      home:const LoginScreen(),
+      home: LoginScreen(),
     );
   }
 }
